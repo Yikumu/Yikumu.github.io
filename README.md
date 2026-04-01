@@ -1,1 +1,1 @@
-https://Yikumu.github.io.
+http://Yikumu.github.io
