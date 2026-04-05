@@ -17,4 +17,4 @@ Major: English Communication
 - Reading and self-improvement
 - Exploring different cultures
 - Dancing
--Practicing Tibetan and English calligraphy
+- Practicing Tibetan and English calligraphy
